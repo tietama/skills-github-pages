@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Testing Pages
 ---
+Seeing how text shows up.
